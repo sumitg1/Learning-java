@@ -6,4 +6,14 @@
       <class name="jen.LearningTest"/>
     </classes>
   </test> <!-- Test -->
+  <test name="Test(failed)">
+    <classes>
+      <class name="jen.LearningTest">
+        <methods>
+          <include name="testEasy"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- jen.LearningTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
