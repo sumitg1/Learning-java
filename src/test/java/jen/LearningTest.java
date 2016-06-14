@@ -12,7 +12,7 @@ public class LearningTest extends test {
 		driver.get("http://www.google.com");
 		Thread.sleep(5000);
 		Assert.assertTrue(AssertTrueMethod("Google"));
-		System.out.println("Sumit");
+		System.out.println("Sumit1");
 		
 	}
 
