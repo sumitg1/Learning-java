@@ -12,6 +12,10 @@
     <artifactId>FrameworkLearning</artifactId>
     <version>0.0.1</version>
 </dependency>
-    
+ <dependency>
+    <groupId>UseJenkins</groupId>
+    <artifactId>UseJenkins1</artifactId>
+    <version>0.0.1</version>
+</dependency>
   </dependencies>
 </project>
